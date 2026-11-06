@@ -1,42 +1,23 @@
 ## Hi there 👋
 
-<div align="center">
-  <h1>¡Hola! Soy Miguel Ángel Tovar Solarte 👋</h1>
-  <p><b>Software Developer | Java & PHP | Scrum Master</b></p>
-</div>
-
-Apasionado por la creación de soluciones estructuradas y la gestión ágil de proyectos. Enfocado en la arquitectura limpia, pruebas exhaustivas y el trabajo en equipo bajo metodologías ágiles.
-
-### 🛠️ Stack Tecnológico & Herramientas
-
-<div align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Scrum-Master-0077B5?style=for-the-badge&logo=agile&logoColor=white" alt="Scrum"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</div>
-
-### 🚀 Proyectos Destacados
-
-* 📦 **[Tool Inventory System](link-a-tu-repo)**: Sistema de inventario estructurado enfocado en arquitectura limpia (Facade, Singleton, Mediator). *Tecnologías: Java, JUnit.*
-* 🌍 **[Geographic Information System](link-a-tu-repo)**: Funcionalidades PHP para módulos geográficos con integración continua y pruebas exhaustivas. *Tecnologías: PHP, Git Flow.*
-
-### 📊 Mis Estadísticas de Desarrollo
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
-</div>
-
-### 📫 Conecta Conmigo
-
-<div align="center">
-  <a href="TU_LINK_DE_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:m.tovar@globant.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</div>
-
+<!-- README de perfil | Miguel Ángel Tovar --------------------------------------------------------------- ANTES DE PUBLICAR, REEMPLAZA ESTOS MARCADORES (Ctrl+H): TU_USUARIO ->
+tu usuario de GitHub TU_LINKEDIN ->
+el final de tu URL de LinkedIn LINK_REPO_1 ->
+URL del repo Tool Inventory System LINK_REPO_2 ->
+URL del repo Geographic Information PALETA: violeta principal #9D00FF | violeta claro #A855F7 | fondo #1A1B27 REGLAS DE FORMATO (para que GitHub no rompa el HTML): - Sin líneas en blanco dentro de bloques <table>, <div> o <details>. - Sangría de 2 espacios (nunca 4 después de una línea en blanco). - Todas las imágenes con atributo alt. -->
+<!-- ===================== 1. ENCABEZADO ===================== -->
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=250&section=header&text=Miguel%20%C3%81ngel%20Tovar&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%E2%80%A2%20Scrum%20Master&descAlignY=55&descSize=20&animation=twinkling" alt="Miguel Ángel Tovar - Software Developer y Scrum Master" /> </div>
+<!-- ===================== 2. CONTACTO ===================== -->
+<div align="center"> <a href="https://linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=A855F7" alt="LinkedIn"/></a> <a href="mailto:m.tovar@globant.com"><img src="https://img.shields.io/badge/Email-1A1B27?style=for-the-badge&logo=gmail&logoColor=A855F7" alt="Correo electrónico"/></a> <a href="https://github.com/TU_USUARIO"><img src="https://img.shields.io/badge/GitHub-1A1B27?style=for-the-badge&logo=github&logoColor=A855F7" alt="GitHub"/></a> <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas&color=9D00FF&style=for-the-badge" alt="Contador de visitas"/> </div>
+<!-- ===================== 3. SOBRE MÍ ===================== -->
+<h2 align="center">👋 Sobre mí</h2> <table align="center" width="100%"> <tr> <td width="50%" align="center" valign="middle"> <p>Desarrollador orientado a resultados, especializado en arquitectura limpia, pruebas exhaustivas y metodologías ágiles. Lidero ciclos de desarrollo asegurando código escalable.</p> </td> <td width="50%" align="center" valign="middle"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=400&lines=Java+%2B+PHP+Developer;Scrum+Master;Clean+Architecture;Agile+Methodologies" alt="Texto animado: Java + PHP Developer, Scrum Master, Clean Architecture, Agile Methodologies" /> </td> </tr> </table>
+<!-- ===================== 4. STACK TECNOLÓGICO ===================== -->
+<h2 align="center">⚡ Stack Tecnológico</h2> <table align="center" width="100%"> <tr> <td width="33%" align="center" valign="top"> <h4>💻 Lenguajes</h4> <img src="https://skillicons.dev/icons?i=java,php,js,dart&theme=dark" alt="Java, PHP, JavaScript, Dart" /> </td> <td width="33%" align="center" valign="top"> <h4>🧰 Frameworks y herramientas</h4> <img src="https://skillicons.dev/icons?i=flutter,git,github,githubactions&theme=dark" alt="Flutter, Git, GitHub, GitHub Actions" /> </td> <td width="33%" align="center" valign="top"> <h4>🧭 Metodologías</h4> <img src="https://img.shields.io/badge/Scrum-1A1B27?style=flat-square&logo=jira&logoColor=A855F7" alt="Scrum" /> <img src="https://img.shields.io/badge/Clean_Architecture-1A1B27?style=flat-square&logoColor=A855F7" alt="Clean Architecture" /> <img src="https://img.shields.io/badge/TDD-1A1B27?style=flat-square&logo=junit5&logoColor=A855F7" alt="TDD" /> </td> </tr> </table>
+<!-- ===================== 5. PROYECTOS ===================== --> 
+<h2 align="center">📂 Proyectos Destacados</h2> <table align="center" width="100%"> <tr> <td width="50%" align="center" valign="top"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Icono de caja de herramientas" width="70" height="70" /> <h3>Tool Inventory System</h3> <p>Sistema de inventario estructurado con patrones de diseño avanzados (Facade, Singleton, Mediator, Bridge).</p> <p> <img src="https://img.shields.io/badge/Java-1A1B27?style=flat-square&logo=openjdk&logoColor=A855F7" alt="Java" /> <img src="https://img.shields.io/badge/JUnit-1A1B27?style=flat-square&logo=junit5&logoColor=A855F7" alt="JUnit" /> </p> <a href="LINK_REPO_1"><img src="https://img.shields.io/badge/Ver_Código-9D00FF?style=for-the-badge&logo=github&logoColor=white" alt="Ver código de Tool Inventory System"/></a> </td> <td width="50%" align="center" valign="top"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Icono de globo terráqueo" width="70" height="70" /> <h3>Geographic Information</h3> <p>Desarrollo de módulos geográficos en PHP con integración continua y pruebas de regresión/bugs.</p> <p> <img src="https://img.shields.io/badge/PHP-1A1B27?style=flat-square&logo=php&logoColor=A855F7" alt="PHP" /> <img src="https://img.shields.io/badge/GitFlow-1A1B27?style=flat-square&logo=git&logoColor=A855F7" alt="GitFlow" /> </p> <a href="LINK_REPO_2"><img src="https://img.shields.io/badge/Ver_Código-9D00FF?style=for-the-badge&logo=github&logoColor=white" alt="Ver código de Geographic Information"/></a> </td> </tr> </table> <!-- ===================== 6. ESTADÍSTICAS ===================== --> 
+<h2 align="center">📈 GitHub Analytics</h2> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=A855F7&icon_color=9D00FF" alt="Estadísticas de GitHub" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=A855F7" alt="Lenguajes más usados" width="48%" /> <br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=1A1B27&color=A855F7&line=9D00FF&point=FFFFFF&area=true&area_color=9D00FF&hide_border=true" alt="Gráfica de actividad" width="96%" /> </div> <!-- ===================== 7. CONTRIBUCIONES (colapsable) ===================== -->
+<details> <summary align="center"><b>🐍 Mostrar actividad de contribuciones</b></summary> <div align="center"> <br> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake-dark.svg"> <img alt="Serpiente animada sobre las contribuciones de GitHub" src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg"> </picture> </div> </details> 
+<!-- ===================== 8. PIE ===================== --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" alt="" /> </div>
 <!--
 **Tovarpst37/Tovarpst37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
